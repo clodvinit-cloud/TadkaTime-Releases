@@ -1,0 +1,2 @@
+f54d47c64dfb02f04eeab00c8dce910c68f8f4abe51cfcc807a6198280763484  downloads/tadka-time-v1.1.30.apk
+53f1814bd8c303ebe9a134d1f6e791b106d6c0d0ffbca97be98ccbe8df40f9aa  downloads/user-manual-v1.1.30.pdf
