@@ -1,4 +1,6 @@
+544b6f4fba89454dc003d5cb09ba8b18aa85daf53bf32acfbc90381546ec1f68  downloads/latest.apk
 9452b3ad8d38355449e4a9e72bec8db01eb7504a36621852a7c99230d9be797f  downloads/tadka-time-v1.0.1.apk
-9452b3ad8d38355449e4a9e72bec8db01eb7504a36621852a7c99230d9be797f  downloads/latest.apk
+a9a7cf19b6cd4638a7a180e3047e012098090f5152aa9bdda79798d14c0cfe59  downloads/tadka-time-v1.0.2.apk
+544b6f4fba89454dc003d5cb09ba8b18aa85daf53bf32acfbc90381546ec1f68  downloads/tadka-time-v1.0.3.apk
 f1636449a8f81d1a091c8a9c582d797b567e2fb1a3d1b5abd01b88a8965c4df3  downloads/user-manual-v1.0.1.pdf
 f1636449a8f81d1a091c8a9c582d797b567e2fb1a3d1b5abd01b88a8965c4df3  downloads/user-manual.pdf
